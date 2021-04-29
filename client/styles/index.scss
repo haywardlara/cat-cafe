@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
 
-html, 
+ 
 body {
   font-family: 'Pacifico', sans-serif;
   background-color: whitesmoke;
@@ -13,6 +13,13 @@ body {
     #fff;
     background-size: 109px 109px, 109px 109px,100% 6px, 109px 109px, 109px 109px;
     background-position: 54px 55px, 0px 0px, 0px 0px, 0px 0px, 0px 0px;
+
+}
+
+.container {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
 }
 
 h1 {
@@ -21,15 +28,12 @@ h1 {
   line-height: 150%;
   width: 500px;
   height: 300px;
-  left: 45px;
-  position: absolute;
   transform: rotate(-30deg);
 }
 
 img {
-  float: right;
   width: 800px;
-  margin: 50px;
+  margin: 40px;
   border-radius: 25px;
   border: 8px solid #ffc20c;
 }
