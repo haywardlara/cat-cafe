@@ -4,6 +4,7 @@ const App = (props) => {
   return (
     <>
       <h1>Honey's Cat Cafe</h1>
+      <div><img src="cats.jpeg" alt="two cats"/></div>
       <div>
         <p>Open 10am-4pm, Wednesday through Saturday.</p>
         <p>100 Cutie Pie Lane, Wellington</p>
