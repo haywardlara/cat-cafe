@@ -1,6 +1,8 @@
-# Fullstack boilerplate
+# Honey's Cat Cafe
 
-## Getting Started
+A static website to get our creative juices going after a short break from coding. 
+
+<!-- ## Getting Started
 
 ### From the Github UI
 See the instructions [here](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template) to use Github's feature to create a new repo from a template.
@@ -26,4 +28,4 @@ This repo includes:
 * an API client module (`client/apis/fruits.js`)
 * configuration for Jest and Enzyme (including JSDOM)
 * configuration for server-side debugging in VS Code
-* a single client-side test (`client/components/App.test.js`)
+* a single client-side test (`client/components/App.test.js`) -->
