@@ -19,21 +19,29 @@ body {
 .container {
   display: flex;
   flex-flow: row wrap;
-  justify-content: center;
+  justify-content: space-evenly;
+}
+
+.fun {
+  display: flex;
+  margin: auto;
+  flex-flow: column nowrap;
+  align-items: center;
 }
 
 h1 {
   color: #ffc20c;
   font-size: 120px;
   line-height: 150%;
+  margin-bottom: 200px;
   width: 500px;
   height: 300px;
   transform: rotate(-30deg);
 }
 
 img {
+  margin: 10px;
   width: 800px;
-  margin: 40px;
   border-radius: 25px;
   border: 8px solid #ffc20c;
 }
