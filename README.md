@@ -1,6 +1,6 @@
 # Honey's Cat Cafe
 
-A static website to get our creative juices going after a short break from coding. 
+A static website to get our creative juices going after a short break from coding. This is the cute cat cafe we wish was in central Wellington. 
 
 <!-- ## Getting Started
 
