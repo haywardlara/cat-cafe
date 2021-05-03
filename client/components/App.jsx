@@ -12,8 +12,10 @@ const App = (props) => {
       <div className="fun">
         <p>Open 10am-4pm, Wednesday through Saturday.</p>
         <p>100 Cutie Pie Lane, Wellington</p>
-        <footer>&copy;2021 by Lara x Naomi</footer>
       </div>
+     
+      <footer>&copy;2021 by Lara x Naomi</footer>
+      
     </>
   )
 }
